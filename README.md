@@ -2,6 +2,8 @@
 
 При возникновении вопросов пишите в телеграм https://t.me/Ilia_Petryashin
 
+![image](https://user-images.githubusercontent.com/94632457/143732627-3c2b7382-6ea9-4f34-8cd9-67dfb02e5ea4.png)
+
 # Обучение модели
 
 Colab для обучения модели. Вначале к нему подключается Google Drive, с которого подкачивается датасет. Датасет доступен по ссылке https://drive.google.com/file/d/18TZpjY-Z53AHeLccQ9OxvAcM3Sdtfiso/view?usp=sharing
