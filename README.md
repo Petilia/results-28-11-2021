@@ -16,6 +16,10 @@ Colab для обучения модели. Вначале к нему подк�
 Или можно просто перейти в каталог YOLOX и открыть изображение из него
 ![image](https://user-images.githubusercontent.com/94632457/143732393-4680c0f6-f885-47a8-9e42-8ae169a1be44.png)
 
+Пример)
+
+![image](https://user-images.githubusercontent.com/94632457/143732627-3c2b7382-6ea9-4f34-8cd9-67dfb02e5ea4.png)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bDkUTKj24B5ZFXgshGQtw48R0n9sPll6?authuser=1#scrollTo=ePrLaAhN2OKQ)<br>
 
 # Валидация результатов 
