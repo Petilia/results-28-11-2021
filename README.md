@@ -6,6 +6,10 @@ Colab для обучения модели. Вначале к нему подк�
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nb9aCvlY895IvEI4Qlv4TLJDBp553QWm?authuser=1)<br>
 
+# Проверка работы модели на примерах
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bDkUTKj24B5ZFXgshGQtw48R0n9sPll6?authuser=1#scrollTo=ePrLaAhN2OKQ)<br>
+
 # Валидация результатов 
 
 Google Colab для загрузки Ваших датасетов и выгрузки результатов в csv
